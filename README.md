@@ -1,0 +1,2 @@
+# dlog
+Django Blog
